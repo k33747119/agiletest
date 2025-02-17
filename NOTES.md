@@ -8,3 +8,4 @@
 - only using english vowels or international?
 - using Java after at least 3 years :D
 - added main function to pom
+- please forgive the feature definitions, have not used BDD syntax in a very long time, have more experience with Screenplay or POM
